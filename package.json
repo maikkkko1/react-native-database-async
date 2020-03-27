@@ -1,0 +1,13 @@
+{
+  "name": "react-native-database-async",
+  "version": "1.0.0",
+  "description": "Database service based on AsyncStorage",
+  "main": "index.js",
+  "keywords": ["database", "async storage", "asyncstorage", "db", "reactnative", "react-native", "react-native-database-async", "react-native-database", "react native db"],
+  "author": "Maikon Ferreira",
+  "license": "MIT",
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/maikkkko1/react-native-database-async.git"
+   }
+}
