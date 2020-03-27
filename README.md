@@ -209,3 +209,14 @@ async componentDidMount() {
   const delete = await AsyncDatabase.delete("users", where); // Returns true.
 }
 ```
+
+### Docs
+
+* createDatabase(databaseName, schema)
+* deleteDatabase(databaseName)
+* addDatabaseTable(databaseName, schema)
+* updateDatabaseTable(databaseName, tableName, newColumns)
+* insert(tableName, values)
+* select(tableName, whereStatement = null, orderByStatement = null)
+* update(tableName, values, whereStatement) // Pass type = null in where to update all records.
+* delete(tableName, where)
