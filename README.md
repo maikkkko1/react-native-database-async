@@ -29,7 +29,7 @@ To do this, just create a .json file like the example below and define your tabl
 *"columns" = Table columns.*
 
 ### Create database
-Always create your database in your project's initial file, so that it is the first thing to be executed. If the bank already exists, he just ignored it.
+Always create your database in your project's initial file, so that it is the first thing to be executed. If the database already exists, he just ignored it.
 
 Using the above schema, we will create our database in the example below.
 
