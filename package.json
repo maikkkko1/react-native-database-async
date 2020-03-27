@@ -1,6 +1,6 @@
 {
   "name": "react-native-database-async",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Database service based on AsyncStorage",
   "main": "index.js",
   "keywords": ["database", "async storage", "asyncstorage", "db", "reactnative", "react-native", "react-native-database-async", "react-native-database", "react native db"],
